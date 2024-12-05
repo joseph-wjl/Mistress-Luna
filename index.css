@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    border: 1px black solid;
+    justify-content: space-between;
+    font-family: gloock;
+    font-weight: 200;
+    background-color: #EFEAE5;
+}
+
+nav {
+    margin-top: 30px;
+    border: 1px black solid;
+    /* width: 400px; */
+}
+
+#logo {
+    height: 300px;
+}
